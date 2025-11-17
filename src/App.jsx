@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import Benefits from './components/Benefits'
 import SocialProof from './components/SocialProof'
 import Details from './components/Details'
+import Products from './components/Products'
 import CTA from './components/CTA'
 import FAQ from './components/FAQ'
 import Footer from './components/Footer'
@@ -16,6 +17,7 @@ function App() {
         <Benefits />
         <SocialProof />
         <Details />
+        <Products />
         <CTA />
         <FAQ />
       </main>
